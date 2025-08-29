@@ -1,0 +1,9 @@
+ID,Name,Faculty,Department,Semester,GPA,Email,Advisor
+1001,Alice Johnson,Engineering,Computer Science,3,3.7,alice.j@univ.edu,Dr. Smith
+1002,Bob Williams,Business,Finance,5,3.2,bob.w@univ.edu,Dr. Green
+1003,Charlie Brown,Arts,History,2,3.5,charlie.b@univ.edu,Dr. White
+1004,Diana Prince,Science,Biology,4,3.9,diana.p@univ.edu,Dr. Black
+1005,Ethan Hunt,Engineering,Mechanical,6,2.8,ethan.h@univ.edu,Dr. Grey
+1006,Fiona Davis,Medicine,Nursing,1,3.6,fiona.d@univ.edu,Dr. Adams
+1007,George King,Law,International Law,7,3.1,george.k@univ.edu,Dr. Taylor
+1008,Hannah Scott,Science,Chemistry,3,3.8,hannah.s@univ.edu,Dr. Lewis
